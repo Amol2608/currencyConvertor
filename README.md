@@ -1,1 +1,1 @@
-Hello This is the currency convertor website where you can convert any currency to other currency, for example from INR to USD.
+Hello This is the currency convertor website where you can convert any currency to other currency, for example from INR to USD. So, please test it whenever you need it.
